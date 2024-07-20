@@ -14,6 +14,8 @@ As a promotional product, Doors Loopy will serve as an excellent branding tool f
 
 > Alex: "*This is a concept idea for a branded promo product developed and sold by Sourceduty.*"
 
+> "*I made future plans for subsidiaries managed by Sourceduty.*"
+
 #
 ### Related Links
 
