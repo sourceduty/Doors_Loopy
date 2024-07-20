@@ -21,7 +21,7 @@ As a promotional product, Doors Loopy will serve as an excellent branding tool f
 <br>
 [Sourceduty 2](https://github.com/sourceduty/Sourceduty_2)
 <br>
-[Sourceduty Servicesl](https://github.com/sourceduty/Sourceduty_Services)
+[Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
 <br>
 [Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
 <br>
